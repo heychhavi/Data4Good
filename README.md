@@ -1,4 +1,4 @@
-The 2023 Purdue "Data for Good" competition presents a related competition brought to you by Purdue University, Microsoft, INFORMS, and Prediction Guard. This competition seeks to bridge the gap between healthcare needs and technological innovation. The focus is on demonstrating how the potential of LLMs can be harnessed to automate the painstaking process of medical documentation, given a transcript of a medical dictation or a patient-doctor conversation.
+This project seeks to bridge the gap between healthcare needs and technological innovation. The focus is on demonstrating how the potential of LLMs can be harnessed to automate the painstaking process of medical documentation, given a transcript of a medical dictation or a patient-doctor conversation.
 
 Imagine a world where healthcare professionals and volunteers are free to devote their full attention to their patients, unburdened by labor-intensive paperwork. Envisage a future where AI can streamline administrative processes, ensuring that the data captured is accurate, consistent, and secure, freeing up valuable time and resources.
 
